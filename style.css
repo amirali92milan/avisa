@@ -1,0 +1,18 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+   background-image:url(./A2267397-9A01-4078-B0DA-5C357B1D086F.PNG);
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 40vw;
+}
+.div2 {
+ 
+    align-items: center;
+    top: 700px;
+    left: 810px;
+    position: absolute;
+}
