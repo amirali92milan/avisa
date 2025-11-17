@@ -1,0 +1,22 @@
+
+*{
+    box-sizing: border-box;
+}
+.kol{
+   
+    width: 100vw;
+}
+.div2 {
+  background-size: auto 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vw;
+  
+}
+.div2 h1{
+    position: absolute;
+    top: 5%;
+    align-items: center;
+    justify-content: center;
+    left:45%;
+}
